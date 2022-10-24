@@ -33,4 +33,4 @@ This source code is licensed under the MIT Licence
 
 https://opensource.org/licenses/MIT
 
-You are free to download, modify, use, and re-distribute this code as you see fit.
+You are free to download, modify, use, and re-distribute this code as you see fit
